@@ -5,6 +5,7 @@
 ### NIM : 2509116089 ###
 
 <h2> Flowchart Sistem Catatan Transaksi Keuangan (Manager & Karyawan) </h2>
+<img width="447" height="811" alt="FLOWCHART MINPRO DDP 2 drawio" src="https://github.com/user-attachments/assets/8ae0dc01-bda0-41fe-a8ac-07a37ba81541" />
 
 
 <h2> Output Menu (Manager) </h2>
