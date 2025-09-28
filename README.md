@@ -16,5 +16,10 @@
 <img width="1920" height="1200" alt="Screenshot 2025-09-28 161442" src="https://github.com/user-attachments/assets/f8781123-2219-47ce-bddc-5e0de3db8e1a" />
 <img width="1920" height="1200" alt="Screenshot 2025-09-28 161456" src="https://github.com/user-attachments/assets/ed3028d1-61f8-44af-83c8-2dc050df1bae" />
 
-
-
+<h2>Penjelasan/keterangan : </h2>
+<p>Saat jalankan program, user ketik username dan password, password gak keliatan karena pakai getpass.</p>
+<p>Kalo salah → program menampilkan Login gagal, ulangi.</p>
+<p>Kalo benar → user diarahkan ke menu sesuai role (Manager / Karyawan).</p>
+<p>Kalo pencet lihat transaksi, semua data ditampilkan dalam bentuk pretty tabel.</p>
+<p>Kalo karyawan hak aksesnya terbatas, cuma bisa lihat dan tambah transaksi aja, gak ada menu update dan hapus.</p>
+<p>Manager bisa CRUD penuh: Lihat, Tambah, Update, Hapus.</p>
