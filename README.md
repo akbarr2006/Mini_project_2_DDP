@@ -4,7 +4,7 @@
 ### Kelas : C ###
 ### NIM : 2509116089 ###
 
-<h2> Flowchart sistem catatan transaksi keuangan (Manager & Karyawan) </h2>
+<h2> Flowchart Sistem Catatan Transaksi Keuangan (Manager & Karyawan) </h2>
 
 
 <h2> Output Menu (Manager) </h2>
